@@ -67,8 +67,8 @@ MIT License
 
 ## 📬 Contact
 
-Built by [DheerajKumar.N](https://github.com/DheerajKumar007)
-X (Twitter) https://x.com/DheerajKumar76x
+- Built by [DheerajKumar](https://github.com/DheerajKumar007)
+- X (Twitter) https://x.com/DheerajKumar76x
 
 Have ideas or bugs? Open an [issue](https://github.com/YourUsername/IntelliVolume/issues) or contribute via PR!
 
